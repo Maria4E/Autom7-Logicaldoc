@@ -1,0 +1,121 @@
+2021-12-10 13:23:22,761 WARN  [SoapUI] Missing folder [C:\Users\formation\Documents\Projet_Libreplan_Logicaldoc\logicaldoc\ext] for external libraries
+2021-12-10 13:23:22,949 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\formation\soapui-settings.xml]
+2021-12-10 13:23:23,985 INFO  [PluginManager] 0 plugins loaded in 2 ms
+2021-12-10 13:23:23,985 INFO  [DefaultSoapUICore] All plugins loaded
+2021-12-10 13:23:24,593 INFO  [WsdlProject] Loaded project from [file:/C:/Users/formation/Documents/Projet_Libreplan_Logicaldoc/logicaldoc/src/test/resources/JN_Logicaldoc-soapui-project.xml]
+2021-12-10 13:23:25,423 ERROR [SoapUI] An error occurred [com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException], see error log for details
+2021-12-10 13:23:25,424 ERROR [errorlog] com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlInterfaceDefinition.load(WsdlInterfaceDefinition.java:52)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:62)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:34)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.cacheDefinition(AbstractDefinitionContext.java:245)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.access$400(AbstractDefinitionContext.java:47)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext$Loader.construct(AbstractDefinitionContext.java:218)
+	at com.eviware.soapui.support.swing.SwingWorkerDelegator.construct(SwingWorkerDelegator.java:46)
+	at com.eviware.soapui.support.swing.SwingWorker$2.run(SwingWorker.java:131)
+	at java.lang.Thread.run(Thread.java:748)
+2021-12-10 13:23:25,426 ERROR [SoapUI] An error occurred [com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException], see error log for details
+2021-12-10 13:23:25,426 ERROR [errorlog] com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlInterfaceDefinition.load(WsdlInterfaceDefinition.java:52)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:62)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:34)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.cacheDefinition(AbstractDefinitionContext.java:245)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.access$400(AbstractDefinitionContext.java:47)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext$Loader.construct(AbstractDefinitionContext.java:218)
+	at com.eviware.soapui.support.swing.SwingWorkerDelegator.construct(SwingWorkerDelegator.java:46)
+	at com.eviware.soapui.support.swing.SwingWorker$2.run(SwingWorker.java:131)
+	at java.lang.Thread.run(Thread.java:748)
+2021-12-10 13:23:25,427 WARN  [SoapUI] Failed to process inline/MTOM attachments; java.lang.Exception: Missing operation [create] in wsdl definition
+2021-12-10 13:23:25,443 ERROR [SoapUI] An error occurred [com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException], see error log for details
+2021-12-10 13:23:25,443 ERROR [errorlog] com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlInterfaceDefinition.load(WsdlInterfaceDefinition.java:52)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:62)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:34)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.cacheDefinition(AbstractDefinitionContext.java:245)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.access$400(AbstractDefinitionContext.java:47)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext$Loader.construct(AbstractDefinitionContext.java:218)
+	at com.eviware.soapui.support.swing.SwingWorkerDelegator.construct(SwingWorkerDelegator.java:46)
+	at com.eviware.soapui.support.swing.SwingWorker$2.run(SwingWorker.java:131)
+	at java.lang.Thread.run(Thread.java:748)
+2021-12-10 13:23:25,444 WARN  [AttachmentUtils] 
+2021-12-10 13:23:25,560 ERROR [SoapUI] An error occurred [com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException], see error log for details
+2021-12-10 13:23:25,560 ERROR [errorlog] com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlInterfaceDefinition.load(WsdlInterfaceDefinition.java:52)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:62)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:34)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.cacheDefinition(AbstractDefinitionContext.java:245)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.access$400(AbstractDefinitionContext.java:47)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext$Loader.construct(AbstractDefinitionContext.java:218)
+	at com.eviware.soapui.support.swing.SwingWorkerDelegator.construct(SwingWorkerDelegator.java:46)
+	at com.eviware.soapui.support.swing.SwingWorker$2.run(SwingWorker.java:131)
+	at java.lang.Thread.run(Thread.java:748)
+2021-12-10 13:23:25,560 ERROR [SoapUI] An error occurred [com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException], see error log for details
+2021-12-10 13:23:25,561 ERROR [errorlog] com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlInterfaceDefinition.load(WsdlInterfaceDefinition.java:52)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:62)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:34)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.cacheDefinition(AbstractDefinitionContext.java:245)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.access$400(AbstractDefinitionContext.java:47)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext$Loader.construct(AbstractDefinitionContext.java:218)
+	at com.eviware.soapui.support.swing.SwingWorkerDelegator.construct(SwingWorkerDelegator.java:46)
+	at com.eviware.soapui.support.swing.SwingWorker$2.run(SwingWorker.java:131)
+	at java.lang.Thread.run(Thread.java:748)
+2021-12-10 13:23:25,561 WARN  [SoapUI] Failed to process inline/MTOM attachments; java.lang.Exception: Missing operation [create] in wsdl definition
+2021-12-10 13:23:25,567 ERROR [SoapUI] An error occurred [com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException], see error log for details
+2021-12-10 13:23:25,567 ERROR [errorlog] com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlInterfaceDefinition.load(WsdlInterfaceDefinition.java:52)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:62)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:34)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.cacheDefinition(AbstractDefinitionContext.java:245)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.access$400(AbstractDefinitionContext.java:47)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext$Loader.construct(AbstractDefinitionContext.java:218)
+	at com.eviware.soapui.support.swing.SwingWorkerDelegator.construct(SwingWorkerDelegator.java:46)
+	at com.eviware.soapui.support.swing.SwingWorker$2.run(SwingWorker.java:131)
+	at java.lang.Thread.run(Thread.java:748)
+2021-12-10 13:23:25,567 WARN  [AttachmentUtils] 
+2021-12-10 13:23:25,901 INFO  [WsdlProject] Loaded project from [file:/C:/Users/formation/Documents/Projet_Libreplan_Logicaldoc/logicaldoc/src/test/resources/KIM_Logicaldoc-soapui-project.xml]
+2021-12-10 13:23:26,049 INFO  [WsdlProject] Loaded project from [file:/C:/Users/formation/Documents/Projet_Libreplan_Logicaldoc/logicaldoc/src/test/resources/LOGICALDOC-BOOKMARKS-TEST-soapui-project.xml]
+2021-12-10 13:23:26,108 ERROR [SoapUI] An error occurred [com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException], see error log for details
+2021-12-10 13:23:26,109 ERROR [errorlog] com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlInterfaceDefinition.load(WsdlInterfaceDefinition.java:52)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:62)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:34)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.cacheDefinition(AbstractDefinitionContext.java:245)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.access$400(AbstractDefinitionContext.java:47)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext$Loader.construct(AbstractDefinitionContext.java:218)
+	at com.eviware.soapui.support.swing.SwingWorkerDelegator.construct(SwingWorkerDelegator.java:46)
+	at com.eviware.soapui.support.swing.SwingWorker$2.run(SwingWorker.java:131)
+	at java.lang.Thread.run(Thread.java:748)
+2021-12-10 13:23:26,109 ERROR [SoapUI] An error occurred [com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException], see error log for details
+2021-12-10 13:23:26,109 ERROR [errorlog] com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlInterfaceDefinition.load(WsdlInterfaceDefinition.java:52)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:62)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:34)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.cacheDefinition(AbstractDefinitionContext.java:245)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.access$400(AbstractDefinitionContext.java:47)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext$Loader.construct(AbstractDefinitionContext.java:218)
+	at com.eviware.soapui.support.swing.SwingWorkerDelegator.construct(SwingWorkerDelegator.java:46)
+	at com.eviware.soapui.support.swing.SwingWorker$2.run(SwingWorker.java:131)
+	at java.lang.Thread.run(Thread.java:748)
+2021-12-10 13:23:26,110 WARN  [SoapUI] Failed to process inline/MTOM attachments; java.lang.Exception: Missing operation [create] in wsdl definition
+2021-12-10 13:23:26,116 ERROR [SoapUI] An error occurred [com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException], see error log for details
+2021-12-10 13:23:26,116 ERROR [errorlog] com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlInterfaceDefinition.load(WsdlInterfaceDefinition.java:52)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:62)
+	at com.eviware.soapui.impl.wsdl.support.wsdl.WsdlContext.loadDefinition(WsdlContext.java:34)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.cacheDefinition(AbstractDefinitionContext.java:245)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext.access$400(AbstractDefinitionContext.java:47)
+	at com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext$Loader.construct(AbstractDefinitionContext.java:218)
+	at com.eviware.soapui.support.swing.SwingWorkerDelegator.construct(SwingWorkerDelegator.java:46)
+	at com.eviware.soapui.support.swing.SwingWorker$2.run(SwingWorker.java:131)
+	at java.lang.Thread.run(Thread.java:748)
+2021-12-10 13:23:26,117 WARN  [AttachmentUtils] 
