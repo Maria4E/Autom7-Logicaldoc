@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: eql.logicaldoc.LogicaldocTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.737 s <<< FAILURE! - in eql.logicaldoc.LogicaldocTest
-eql.logicaldoc.LogicaldocTest.LogicalDocTest_Docs_And_Search  Time elapsed: 3.346 s  <<< FAILURE!
-java.lang.AssertionError: expected:<FINISHED> but was:<FAILED>
-	at eql.logicaldoc.LogicaldocTest.LogicalDocTest_Docs_And_Search(LogicaldocTest.java:45)
-
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.918 s - in eql.logicaldoc.LogicaldocTest
